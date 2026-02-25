@@ -23,15 +23,15 @@ public class PortfolioServlet extends HttpServlet {
 
         out.println("<h2>About Me</h2>");
         out.println(
-                "<p>Hello! I am Anshu, a Java developer who loves backend development and building web apps.</p>");
+                "<p>Hello! I am Anshuman panda, a Java developer who loves backend development and building web apps.</p>");
 
         out.println("<h2>Skills</h2>");
         out.println("<ul>");
         out.println("<li>Java</li>");
-        out.println("<li>Servlet & JSP</li>");
-        out.println("<li>JDBC</li>");
+        out.println("<li>Web Development</li>");
+        out.println("<li>Laravel</li>");
         out.println("<li>MySQL</li>");
-        out.println("<li>HTML</li>");
+        out.println("<li>Reacy</li>");
         out.println("</ul>");
 
         out.println("<h2>Projects</h2>");
@@ -42,11 +42,11 @@ public class PortfolioServlet extends HttpServlet {
         out.println("</ol>");
 
         out.println("<h2>Contact</h2>");
-        out.println("<p>Email: anshu@email.com</p>");
-        out.println("<p>Phone: 1234567890</p>");
+        out.println("<p>Email: anshumanpanda66@email.com</p>");
+        out.println("<p>Phone: 9827758298</p>");
 
         out.println("<hr>");
-        out.println("<p>© 2026 Anshu Portfolio</p>");
+     
 
         out.println("</body>");
         out.println("</html>");
